@@ -5,3 +5,11 @@ Steps for prisma - orm (Object Realational Mapping)
 4. npx prisma init
 5. configure neon.tech connection url 
 6. Make the required changes if error shows
+
+
+* Define schema in schmea.prisma
+* Once you have generated the prisma.schema file then you can generate clients that you can use in your node.js file
+	use: npx prisma generate
+	in src folder a generated folder will formed which will contains the clients
+
+Still few errors
