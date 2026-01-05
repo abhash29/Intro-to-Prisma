@@ -1,0 +1,7 @@
+Steps for prisma - orm (Object Realational Mapping)
+1. npm init -y
+2. npm install prisma --save-dev
+3. npm install @prisma/client
+4. npx prisma init
+5. configure neon.tech connection url 
+6. Make the required changes if error shows
